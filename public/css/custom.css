@@ -1,0 +1,21 @@
+body{
+	background: #fff;
+}
+
+#footer{
+
+	padding: 5px;
+	margin-bottom: 0;
+	position: absolute;
+	width: 100%;
+}
+
+#block {
+    display: block;
+    width: 100%;
+    border: none;
+    padding: 8px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+}
